@@ -1,4 +1,3 @@
-# flight-delay
 # Predict flight delays with Spark and ML-Lib
 
 This is an implementation of the flight delay prediction with Spark.
